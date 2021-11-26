@@ -1,0 +1,12 @@
+C:\Users\engen\Desktop\dumpster\isp\labs\Serializer\obj\Debug\netstandard2.0\Serializer.AssemblyInfoInputs.cache
+C:\Users\engen\Desktop\dumpster\isp\labs\Serializer\obj\Debug\netstandard2.0\Serializer.AssemblyInfo.cs
+C:\Users\engen\Desktop\dumpster\isp\labs\Serializer\obj\Debug\netstandard2.0\Serializer.csproj.CoreCompileInputs.cache
+C:\Users\engen\Desktop\dumpster\isp\labs\Serializer\bin\Debug\netstandard2.0\Serializer.deps.json
+C:\Users\engen\Desktop\dumpster\isp\labs\Serializer\bin\Debug\netstandard2.0\Serializer.dll
+C:\Users\engen\Desktop\dumpster\isp\labs\Serializer\bin\Debug\netstandard2.0\HRdepartment.domain.dll
+C:\Users\engen\Desktop\dumpster\isp\labs\Serializer\bin\Debug\netstandard2.0\HRdepartment.domain.pdb
+C:\Users\engen\Desktop\dumpster\isp\labs\Serializer\obj\Debug\netstandard2.0\Serializer.csprojAssemblyReference.cache
+C:\Users\engen\Desktop\dumpster\isp\labs\Serializer\obj\Debug\netstandard2.0\Serializer.csproj.CopyComplete
+C:\Users\engen\Desktop\dumpster\isp\labs\Serializer\bin\Debug\netstandard2.0\Serializer.pdb
+C:\Users\engen\Desktop\dumpster\isp\labs\Serializer\obj\Debug\netstandard2.0\Serializer.dll
+C:\Users\engen\Desktop\dumpster\isp\labs\Serializer\obj\Debug\netstandard2.0\Serializer.pdb

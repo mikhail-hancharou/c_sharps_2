@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4px/MggKOovc0O1WDKOJa8JdyUQK0xVv7a+xnakoHnAYxW+5YCc7AZGbUerdmG3rKrnGT8VJHymZwCADo1oSHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\engen\\Desktop\\dumpster\\isp\\labs\\053501_Hancharou_Lab9\\053501_Hancharou_Lab9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\engen\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
