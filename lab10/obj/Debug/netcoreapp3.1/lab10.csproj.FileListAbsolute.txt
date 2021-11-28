@@ -1,0 +1,15 @@
+C:\Users\engen\Desktop\dumpster\isp\labs\lab10\bin\Debug\netcoreapp3.1\lab10.exe
+C:\Users\engen\Desktop\dumpster\isp\labs\lab10\bin\Debug\netcoreapp3.1\lab10.deps.json
+C:\Users\engen\Desktop\dumpster\isp\labs\lab10\bin\Debug\netcoreapp3.1\lab10.runtimeconfig.json
+C:\Users\engen\Desktop\dumpster\isp\labs\lab10\bin\Debug\netcoreapp3.1\lab10.runtimeconfig.dev.json
+C:\Users\engen\Desktop\dumpster\isp\labs\lab10\bin\Debug\netcoreapp3.1\lab10.dll
+C:\Users\engen\Desktop\dumpster\isp\labs\lab10\bin\Debug\netcoreapp3.1\lab10.pdb
+C:\Users\engen\Desktop\dumpster\isp\labs\lab10\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\engen\Desktop\dumpster\isp\labs\lab10\obj\Debug\netcoreapp3.1\lab10.AssemblyInfoInputs.cache
+C:\Users\engen\Desktop\dumpster\isp\labs\lab10\obj\Debug\netcoreapp3.1\lab10.AssemblyInfo.cs
+C:\Users\engen\Desktop\dumpster\isp\labs\lab10\obj\Debug\netcoreapp3.1\lab10.csproj.CoreCompileInputs.cache
+C:\Users\engen\Desktop\dumpster\isp\labs\lab10\obj\Debug\netcoreapp3.1\lab10.csproj.CopyComplete
+C:\Users\engen\Desktop\dumpster\isp\labs\lab10\obj\Debug\netcoreapp3.1\lab10.dll
+C:\Users\engen\Desktop\dumpster\isp\labs\lab10\obj\Debug\netcoreapp3.1\lab10.pdb
+C:\Users\engen\Desktop\dumpster\isp\labs\lab10\obj\Debug\netcoreapp3.1\lab10.genruntimeconfig.cache
+C:\Users\engen\Desktop\dumpster\isp\labs\lab10\bin\Debug\netcoreapp3.1\netcoreapp3.1\FServices.dll

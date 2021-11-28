@@ -1,0 +1,11 @@
+C:\Users\engen\Desktop\dumpster\isp\labs\lab10\netcoreapp3.1\lab10.exe
+C:\Users\engen\Desktop\dumpster\isp\labs\lab10\netcoreapp3.1\FServices.deps.json
+C:\Users\engen\Desktop\dumpster\isp\labs\lab10\netcoreapp3.1\FServices.dll
+C:\Users\engen\Desktop\dumpster\isp\labs\lab10\netcoreapp3.1\FServices.pdb
+C:\Users\engen\Desktop\dumpster\isp\labs\FServices\obj\Debug\netcoreapp3.1\FServices.csprojAssemblyReference.cache
+C:\Users\engen\Desktop\dumpster\isp\labs\FServices\obj\Debug\netcoreapp3.1\FServices.AssemblyInfoInputs.cache
+C:\Users\engen\Desktop\dumpster\isp\labs\FServices\obj\Debug\netcoreapp3.1\FServices.AssemblyInfo.cs
+C:\Users\engen\Desktop\dumpster\isp\labs\FServices\obj\Debug\netcoreapp3.1\FServices.csproj.CoreCompileInputs.cache
+C:\Users\engen\Desktop\dumpster\isp\labs\FServices\obj\Debug\netcoreapp3.1\FServices.csproj.CopyComplete
+C:\Users\engen\Desktop\dumpster\isp\labs\FServices\obj\Debug\netcoreapp3.1\FServices.dll
+C:\Users\engen\Desktop\dumpster\isp\labs\FServices\obj\Debug\netcoreapp3.1\FServices.pdb
